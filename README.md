@@ -8,8 +8,9 @@
 
 ### Quais os conteúdos abordados?
 * Esse repositório traz desafios e conteúdos do programa Santander Code Girls em parceria com a DIO segmentado em sessões de interesse como:
-1.	Desafios Básicos de Java
-2.	Desafios Intermediários de Java
-3.	Desafios de projeto
-4.	Conteúdos Abordados nos cursos
+
+- [x]	Desafios Básicos de Java
+- [x]	Desafios Intermediários de Java
+- [ ]	Desafios de projeto
+- [ ] Conteúdos Abordados nos cursos
 
